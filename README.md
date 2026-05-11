@@ -1,5 +1,5 @@
 # DeGraoEmGrao
-🍎 De Grão em Grão: A specialized management platform for Food Banks designed to reduce waste, optimize logistics, and connect donors with NGOs.
+🍎 De Grão em Grão: A specialized management platform for Food Banks designed to reduce waste, optimize logistics, and connect donors with Non-Governmental Organizations.
 
 ### 💻 Tech Stack & Requirements
 * **Language:** Java (JDK 17+)
